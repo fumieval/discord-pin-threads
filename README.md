@@ -20,4 +20,4 @@ yarn install
 yarn node index.js
 ```
 
-This unarchives threads with titles that end with `*` every hour
+This unarchives threads with titles that end with `*` when archived
